@@ -1,0 +1,15 @@
+.products-section{
+    padding: 20px;
+    background-color: #F5F5F7;
+    margin: 20px;
+    border-radius: 10px;
+}
+.products-section h2{
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 50px 0;
+}
+.products-container{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,12 @@
+.product{
+    padding: 20px;
+}
+.product img{
+    width: 150px;
+    /* height: 100%; */
+}
+
+.hide{
+    display: none;
+}
+/*https://adminapi.applegadgetsbd.com/storage/media/large/iPad-Pro-M2-2022---12.9inch-Space-Gray-6193.jpg*/

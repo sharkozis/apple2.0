@@ -1,0 +1,50 @@
+[
+    {
+      
+      "_id": "658a2b8af9f861f13f3926be",
+      "index": 0,
+      "price": "$799",
+      "picture": "/Utils/img/one.png",
+      "color": ["gray","silver"],
+      "name": "iPad Pro",
+      "about": "Astonishing performance. Incredibly advanced displays.Super fast wireless connectivity. Next-level Apple Pencil capabilities. Powerful new features in iPadOS. The ultimate iPad experience.\r\n"
+    },
+    {
+      "_id": "658a2b8a5f1cd7fce72f4090",
+      "index": 1,
+      "price": "$599",
+      "picture": "/Utils/img/2.png",
+      "color": ["gray","blue","pink","purple"],
+      "name": "iPad Air",
+      "about": "iPad Air lets you immerse yourself in whatever you are reading, watching, or creating. The 10.9-inch Liquid Retina display features advanced technologies like True Tone, P3 wide color, and an anti reflective coating.\r\n"
+    },
+    {
+      "_id": "658a2b8a4dd1f0b18508886c",
+      "index": 2,
+      "price": "$449",
+      "picture": "/Utils/img/3.png",
+      "color": ["yellow","blue","pink","silver"],
+      "name": "iPad",
+      "subName": "10th generation",
+      "about": "iPad is colorfully re-imagined to be more capable, more intuitive, and even more fun. With an all‑screen design, 10.9-inch Liquid Retina display, and four gorgeous colors, iPad delivers a powerful way to get things done, create, and stay connected.1 Add on essential accessories designed just for iPad and enjoy endless versatility for everything you love to do.\r\n"
+    },
+    {
+      "_id": "658a2b8a8d92c7d33ca0acd0",
+      "index": 3,
+      "price": "$329",
+      "picture": "/Utils/img/4.png",
+      "color": ["gray","silver"],
+      "name": "iPad",
+      "subName": "9th generation",
+      "about": "Powerful. Easy to use. Versatile. iPad is designed for all the things you love to do. Work, play, create, learn, stay connected, and more. All at an incredible value.\r\n"
+    },
+    {
+      "_id": "658a2b8a6f31d0e2de6907a8",
+      "index": 4,
+      "price": "$499",
+      "picture": "/Utils/img/5.png",
+      "color": ["gray","pink","purple"],
+      "name": "iPad mini",
+      "about": "iPad mini is meticulously designed to be absolutely beautiful. An all-new enclosure features a new, larger edge-to-edge screen, along with narrow borders and elegant rounded corners.\r\n"
+    }
+  ]
