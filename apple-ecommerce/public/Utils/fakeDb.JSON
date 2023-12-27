@@ -4,8 +4,8 @@
       "_id": "658a2b8af9f861f13f3926be",
       "index": 0,
       "price": "$799",
-      "picture": "/Utils/img/one.png",
-      "color": ["gray","silver"],
+      "picture": "/Utils/img/new.png",
+      "color": ["silver","gray"],
       "name": "iPad Pro",
       "about": "Astonishing performance. Incredibly advanced displays.Super fast wireless connectivity. Next-level Apple Pencil capabilities. Powerful new features in iPadOS. The ultimate iPad experience.\r\n"
     },
@@ -23,7 +23,7 @@
       "index": 2,
       "price": "$449",
       "picture": "/Utils/img/3.png",
-      "color": ["yellow","blue","pink","silver"],
+      "color": ["silver","blue","red","yellow"],
       "name": "iPad",
       "subName": "10th generation",
       "about": "iPad is colorfully re-imagined to be more capable, more intuitive, and even more fun. With an all‑screen design, 10.9-inch Liquid Retina display, and four gorgeous colors, iPad delivers a powerful way to get things done, create, and stay connected.1 Add on essential accessories designed just for iPad and enjoy endless versatility for everything you love to do.\r\n"

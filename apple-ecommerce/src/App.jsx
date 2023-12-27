@@ -9,6 +9,7 @@ import About from "./component/About/About";
 import Products from "./component/Products/Products";
 import Cart from "./component/Cart/Cart";
 import ProductDetails from "./component/ProductDetails/ProductDetails";
+import MainPage from "./component/Main/MainPage";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: '/about',
         element: <About></About>
+      },
+      {
+        path: '/',
+        element: <MainPage></MainPage>,
       },
       {
         path: '/products',

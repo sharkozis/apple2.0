@@ -1,0 +1,29 @@
+.main-container{
+    padding: 20px;
+    background-color: white;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+}
+.main-container-img{
+    width: 30%;
+    margin: 50px 2em 0 50px;
+}
+.main-container-img img{
+    width: 100%;
+}
+.main-container-details{
+    margin:auto 0;
+    text-align: center;
+}
+.main-container-details h1{
+    font-size: 56px;
+}
+.main-container-details h2{
+    font-size: 24px;
+    font-weight: 300;
+}
+.main-container-details p{
+   margin: 20px;
+}
